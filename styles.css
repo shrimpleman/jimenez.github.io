@@ -6,7 +6,7 @@ body {
 }
 
 header {
-    background-color: #E47818;
+    background-color: red;
     color: white;
     text-align: center;
     padding: 1rem;
@@ -17,7 +17,7 @@ main {
 }
 
 footer {
-    background-color: #E47818;
+    background-color: yellow;
     color: white;
     text-align: center;
     padding: 1rem;
